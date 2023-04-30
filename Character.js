@@ -45,15 +45,15 @@ function Character(data) {
           
             if (this.name==='Naruto'){
                 this.diceCount=8
-               this.avatar="images/kuda.png"
-               document.getElementById('audio').innerHTML=`<audio src="sound/Rasengan.mp3" id="my_audio" loop autoplay  ></audio>`
+               this.avatar="kuda.png"
+               document.getElementById('audio').innerHTML=`<audio src="Rasengan.mp3" id="my_audio" loop autoplay  ></audio>`
                document.getElementById('attack-button').style.scale='1.2'
                document.getElementById('attack-button').style.backgroundColor='red'
               
             }
         })
 
-        this.setDiceHtml()
+        
     }
     
     
