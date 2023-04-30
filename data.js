@@ -23,7 +23,7 @@ const characterData = {
     itachi: {
         name: "Itachi",
         avatar: "goblin.png",
-        health: 30,
+        health: 25,
         diceCount: 3,
         currentDiceScore: []
     }

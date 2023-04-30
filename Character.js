@@ -49,6 +49,7 @@ function Character(data) {
                document.getElementById('audio').innerHTML=`<audio src="Rasengan.mp3" id="my_audio" loop autoplay  ></audio>`
                document.getElementById('attack-button').style.scale='1.2'
                document.getElementById('attack-button').style.backgroundColor='red'
+               document.getElementById('rasinganbtn').style.backgroundColor='green'
               
             }
         })
