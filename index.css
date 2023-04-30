@@ -234,13 +234,3 @@ font-weight: bolder;
 font-size: 1.5rem
 }
 
-.fa-down-long{
-
- justify-self: center;
- align-self: center;
- margin-right: 10px;
-    opacity: 0;
-     font-size: 30px;
-    color: #ff0000;
-    z-index: 200;
-}
