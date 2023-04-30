@@ -50,7 +50,7 @@ function Character(data) {
                document.getElementById('attack-button').style.scale='1.2'
                document.getElementById('attack-button').style.backgroundColor='red'
                document.getElementById('rasinganbtn').style.backgroundColor='green'
-              
+               document.getElementById('arow').style.opacity='1'
             }
         })
 
